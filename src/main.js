@@ -24,7 +24,7 @@ const router = new VueRouter({
   routes: [
     {
       path: "/",
-      name: "posts",
+      name: "weddings",
       component: PostIndex,
     },
     {
